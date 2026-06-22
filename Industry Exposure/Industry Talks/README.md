@@ -27,7 +27,7 @@ These sessions have provided valuable insights into current industry trends, eme
 | 4 | PPG SAP Digital Transformation | 5 November 2025 | 📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2004%3A%20PPG%20SAP%20Digital%20Transformation) |
 | 5 | AI, Data Analytics & Future Technology Trends by Izeno | 13 May 2026 | 📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2005%3A%20AI%2C%20Data%20Analytics%20%26%20Future%20Technology%20Trends%20by%20Izeno) |
 | 6 | Enterprise Data Landscape, Cloud Platforms & AI Innovation (TM One) | 20 May 2026 | 📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2006%3A%20Enterprise%20Data%20Landscape%2C%20Cloud%20Platforms%20%26%20AI%20Innovation%20(TM%20One)) |
-|  |  |  | 📄 [Reflection]() |
+| 7 | Bridging Data & Decisions | 20 May 2026 | 📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2007%3A%20Bridging%20Data%20%26%20Decisions) |
 
-> Click on each folder to view the event details, learning outcomes, reflections, and supporting evidence.
+> Click on each folder to view the event details, learning outcomes, reflections and supporting evidence.
 
