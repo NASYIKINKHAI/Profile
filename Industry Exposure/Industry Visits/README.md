@@ -20,6 +20,6 @@ Industry visits provide valuable opportunities to observe real-world business op
 
 | No. | Company | Date | Overview |
 |------|------|------|------|
-| 1 | Company Name | DD Month YYYY | [Overview of the visit](./Industry-Visit-01-Company-Name/README.md) |
+| 1 | Petronas | 17 November 2023 | [Overview of the visit](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Visits/Petronas) |
 | 2 | Company Name | DD Month YYYY | [Overview of the visit]() |
 | 3 | Company Name | DD Month YYYY | [Overview of the visit]() |
