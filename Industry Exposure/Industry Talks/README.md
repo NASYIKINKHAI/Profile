@@ -23,7 +23,7 @@ These sessions have provided valuable insights into current industry trends, eme
 |------|--------------|------|---------|
 | 1 | PPG x GetMe Hired | 27 & 28 October 2023 |📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2001%3A%20PPG%20x%20GetMe%20Hired%202023) |
 | 2 | System Development @ Credence (TM Subsidiary) | 28 December 2023 |📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2002%3A%20System%20Development%20%40%20Credence%20(TM%20Subsidiary)) |
-| 3 | Industry Talk 03 | ✅ Completed |
+| 3 | Project Management (Theta Innovation Sdn Bhd) | 4 April 2024 |📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2003%3A%20Project%20Management%20(Theta%20Innovation%20Sdn%20Bhd)) |
 | 4 | Industry Talk 04 | ✅ Completed |
 | 5 | Industry Talk 05 | ✅ Completed |
 
