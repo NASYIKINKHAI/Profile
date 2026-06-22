@@ -21,5 +21,6 @@ Industry visits provide valuable opportunities to observe real-world business op
 | No. | Company | Date | Overview |
 |------|------|------|------|
 | 1 | Petronas | 17 November 2023 | [Overview of the visit](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Visits/Petronas) |
-| 2 | Company Name | DD Month YYYY | [Overview of the visit]() |
+| 2 | Huawei Technologies | 17 November 2023 | [Overview of the visit](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Visits/Huawei%20Technologies) |
 | 3 | Company Name | DD Month YYYY | [Overview of the visit]() |
+| 4 | Company Name | DD Month YYYY | [Overview of the visit]() |
