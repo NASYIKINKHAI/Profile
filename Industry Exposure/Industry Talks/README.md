@@ -26,6 +26,8 @@ These sessions have provided valuable insights into current industry trends, eme
 | 3 | Project Management (Theta Innovation Sdn Bhd) | 4 April 2024 |📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2003%3A%20Project%20Management%20(Theta%20Innovation%20Sdn%20Bhd)) |
 | 4 | PPG SAP Digital Transformation | 5 November 2025 | 📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2004%3A%20PPG%20SAP%20Digital%20Transformation) |
 | 5 | AI, Data Analytics & Future Technology Trends by Izeno | 13 May 2026 | 📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2005%3A%20AI%2C%20Data%20Analytics%20%26%20Future%20Technology%20Trends%20by%20Izeno) |
+|  |  |  | 📄 [Reflection]() |
+|  |  |  | 📄 [Reflection]() |
 
 > Click on each folder to view the event details, learning outcomes, reflections, and supporting evidence.
 
