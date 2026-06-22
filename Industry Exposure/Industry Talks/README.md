@@ -21,7 +21,7 @@ These sessions have provided valuable insights into current industry trends, eme
 
 | No. | Industry Talk | Documentation |
 |------|--------------|---------|
-| 1 | Industry Talk 01 | 📄 [Reflection](./Industry-Talk-01-AI-in-Business/) |
+| 1 | Industry Talk 01 | 📄 [Reflection](https://github.com/NASYIKINKHAI/Profile/tree/main/Industry%20Exposure/Industry%20Talks/Industry%20Talk%2001%3A%20PPG%20x%20GetMe%20Hired%202023) |
 | 2 | Industry Talk 02 | ✅ Completed |
 | 3 | Industry Talk 03 | ✅ Completed |
 | 4 | Industry Talk 04 | ✅ Completed |
