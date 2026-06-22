@@ -1,1 +1,31 @@
 
+# 🎤 Industry Talks
+
+Welcome to my Industry Talks Portfolio. This section showcases the various industry talks, webinars, workshops, and professional sharing sessions that I have attended throughout my academic journey at Universiti Teknologi Malaysia (UTM).
+
+These sessions have provided valuable insights into current industry trends, emerging technologies, professional development, and real-world applications of computing and data engineering.
+
+---
+
+## 📌 Objectives
+
+- Gain exposure to current industry practices and technologies.
+- Learn from experienced professionals and industry experts.
+- Enhance technical and professional competencies.
+- Understand career opportunities in the technology sector.
+- Bridge the gap between academic learning and industry expectations.
+
+---
+
+## 📂 Industry Talks Attended
+
+| No. | Industry Talk | Documentation |
+|------|--------------|---------|
+| 1 | Industry Talk 01 | 📄 [Reflection](./Industry-Talk-01-AI-in-Business/) |
+| 2 | Industry Talk 02 | ✅ Completed |
+| 3 | Industry Talk 03 | ✅ Completed |
+| 4 | Industry Talk 04 | ✅ Completed |
+| 5 | Industry Talk 05 | ✅ Completed |
+
+> Click on each folder to view the event details, learning outcomes, reflections, and supporting evidence.
+
